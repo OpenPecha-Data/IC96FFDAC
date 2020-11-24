@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ16922
   title: གསོ་རིག་སྨན་གྱི་ཁོག་འབུགས།
-  volume: ''
+  volume:
+    0d22c9149a3c4be59afaac6082a19d16:
+      image_group_id: I1KG13567
+      title: Volume 1 of gso rig sman gyi khog 'bugs/
+      volume_number: 1
+      total_pages: 586
   author: ''
+ebook_metadata:
+  title: གསོ་རིག་སྨན་གྱི་ཁོག་འབུགས།
+  author: ''
+  sku: P007972
+  cover: cover.jpg
+  layers:
+  - pagination
